@@ -1,6 +1,6 @@
 {
-  "name": "backend-xhttp",
-  "version": "1.1.0",
+  "name": "my-backend-xhttp",
+  "version": "2.1.1",
   "type": "module",
   "description": "Backend Handler (Node.js runtime, 128MB memory)",
   "private": true,

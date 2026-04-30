@@ -1,8 +1,8 @@
 {
-  "name": "my-backend-xhttp",
+  "name": "my-xhttp",
   "version": "2.1.1",
   "type": "module",
-  "description": "Backend Handler (Node.js runtime, 128MB memory)",
+  "description": "my xhttp (Node.js runtime, 128MB memory)",
   "private": true,
   "license": "MIT"
 }
